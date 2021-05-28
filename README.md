@@ -8,7 +8,7 @@ To install the game to a Quest device, download and set up SideQuest with your d
 
 Drag moondogs.apk into SideQuest to install it to the headset.
 
-## Demo
+## Demo Video (YouTube)
 [![MoonDogs Demo Video](https://img.youtube.com/vi/kTZgibeI0yo/0.jpg)](https://www.youtube.com/watch?v=kTZgibeI0yo)
 ## Features
  - Dog AI (see DogController.cs)
